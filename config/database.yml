@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  database: photomania_development
+  host: localhost
+  min_messages: WARNING
+
+test:
+  adapter: postgresql
+  database: photomania_test
+  host: localhost
+  min_messages: WARNING
